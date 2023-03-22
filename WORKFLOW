@@ -1,0 +1,1 @@
+Most calculators rely on integrated circuits more commonly known as chips. Integrated circuits contain transistors that can be turned on and off with electricity to perform mathematical calculations. The most basic calculations are addition, subtraction, multiplication, and division.
